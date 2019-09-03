@@ -2,9 +2,9 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     name='dokr',  
+     name='myapp_DJM',  
      version='0.1',
-     scripts=['dokr'] ,
+     scripts=['app'] ,
      author="DJM",
      author_email="pupul.dj@gmail.com",
      description="A Docker and AWS utility package",

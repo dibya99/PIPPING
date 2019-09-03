@@ -1,0 +1,6 @@
+app
+setup.py
+myapp_DJM.egg-info/PKG-INFO
+myapp_DJM.egg-info/SOURCES.txt
+myapp_DJM.egg-info/dependency_links.txt
+myapp_DJM.egg-info/top_level.txt
